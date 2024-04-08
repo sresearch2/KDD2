@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+paddlepaddle-gpu
+paddleocr>=2.6.0.3
+paddleclas>=2.4.3
+pyannote.audio==3.0.1
+librosa==0.10.1
+openai-whisper==20231117
+speechbrain==0.5.15
+transformers==4.38.2
+accelerate==0.28.0
+bitsandbytes==0.42.0
+peft==0.8.2
+pytube
